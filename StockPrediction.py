@@ -1,3 +1,4 @@
+pip install pandas_datareader
 # load library
 import streamlit as st
 import numpy as np
